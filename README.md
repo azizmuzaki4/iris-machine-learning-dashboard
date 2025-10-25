@@ -120,11 +120,11 @@ Then open your browser and go to:
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 👉 [Open on Streamlit Cloud](https://iris-machine-learning-dashboard.streamlit.app/)
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 **Aziz Muzaki**  
 📍 Bekasi, Indonesia  
@@ -134,8 +134,9 @@ Then open your browser and go to:
 
 ---
 
-🪪 License
+## 🪪 License
 
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute with attribution.
 
-⭐ If you found this project helpful, please give it a star on GitHub!
+
+## ⭐ If you found this project helpful, please give it a star on GitHub!
