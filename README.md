@@ -9,6 +9,10 @@ An **interactive machine learning dashboard** built with **Streamlit** and **Plo
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Open on Streamlit Cloud](https://iris-machine-learning-dashboard.streamlit.app/)
+
 ## 🖼️ Dashboard Preview
 
 | | |
@@ -120,10 +124,6 @@ Then open your browser and go to:
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Open on Streamlit Cloud](https://iris-machine-learning-dashboard.streamlit.app/)
-
 ## 🧑‍💻 Author
 
 **Aziz Muzaki**  
@@ -140,3 +140,4 @@ This project is licensed under the **MIT License** — you are free to use, modi
 
 
 ## ⭐ If you found this project helpful, please give it a star on GitHub!
+
